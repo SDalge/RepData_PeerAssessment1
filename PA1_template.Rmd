@@ -146,4 +146,6 @@ names(AVG_patterns) <- c("Week", "Interval", "Mean_Steps")
 
 qplot(Interval, Mean_Steps, data = AVG_patterns, facets =  Week ~ ., geom = "line", xlab = "Interval (min)", ylab = "Avg number of steps", main = "Average number os steps per interval")
 ```
-
+  
+  
+  

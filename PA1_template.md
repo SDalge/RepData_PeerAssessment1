@@ -191,4 +191,6 @@ qplot(Interval, Mean_Steps, data = AVG_patterns, facets =  Week ~ ., geom = "lin
 ```
 
 ![](PA1_template_files/figure-html/unnamed-chunk-12-1.png)<!-- -->
-
+  
+  
+  
